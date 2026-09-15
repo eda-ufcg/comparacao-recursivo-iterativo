@@ -8,8 +8,6 @@
 
 ## O template
 
-> Não altere o arquivo build.gradle
-
 > O código java estará (ou você terá que colocar) no diretório **/src/main/java/**
 
 > Os testes estarão (ou você terá que incluir) no diretório **/src/test/java/**
@@ -17,10 +15,6 @@
 > Seu código é tão bom quanto seus testes. Eu vou executar meus testes quando você submeter.
 
 > Não mude nenhuma assinatura de método, nome de classe ou localização dos arquivos. Mas você pode/deve criar outros métodos e classes, desde que passem nos testes.
-
-> Compilando: `gradle compileJava` na raiz do projeto.
-
-> Executando os testes: `gradle test` na raiz do projeto.
 
 
 ## Introdução
